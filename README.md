@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abdulhaseeb4239
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently learning react-native
+- 💞️ I’m looking to collaborate on react-native and android projects
+- 📫 How to reach me -> just email me at haseeb4239@gmail.com
