@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abdulhaseeb4239
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on react-native and android projects
-- 📫 How to reach me -> just email me at haseeb4239@gmail.com
+- 👀 I’m interested in mobile app development and blockchain
+- 🌱 I’m currently working on a web3 wallet
+- 💞️ I’m looking to collaborate on react-native/react and android projects
